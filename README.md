@@ -1,3 +1,3 @@
 # React Favorite Color
-A first application that runs using the basics of React framework.
+A first application that runs using the basics of the React framework.
 ![image](image.png)
